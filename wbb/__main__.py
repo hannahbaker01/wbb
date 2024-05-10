@@ -122,7 +122,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="Owner",
-                url="t.me/CORNX_OWNER",
+                url="t.me/Yes_am_attitude",
             ),
         ],
         [
@@ -131,7 +131,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
                 callback_data="stats_callback",
             ),
             InlineKeyboardButton(
-                text="Support 👨", url="http://t.me/CORNX_SUPPORT"
+                text="Support 👨", url="http://t.me/avalum_nanumm"
             ),
         ],
         [
@@ -158,7 +158,7 @@ keyboard = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="Repo 🛠",
-                url="t.me/cornx_owner",
+                url="t.me/Yes_am_attitude",
             ),
         ],
         [
@@ -166,7 +166,7 @@ keyboard = InlineKeyboardMarkup(
                 text="System Stats 💻",
                 callback_data="stats_callback",
             ),
-            InlineKeyboardButton(text="Support 👨", url="t.me/cornx_support"),
+            InlineKeyboardButton(text="Support 👨", url="t.me/avalum_nanumm"),
         ],
     ]
 )
